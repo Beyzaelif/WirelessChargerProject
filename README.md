@@ -8,3 +8,15 @@ After years of unhandiness today, there are many wireless charging technologies 
 
 The principle can be ezplained as; mainly, a magnetic loop antenna (copper coil) is used to create an oscillating magnetic field, which can create a current in one or more receiver antennas. If the appropriate capacitance is added so that the loops resonate at the same frequency, the amount of induced current in the receivers increases. This is resonant inductive charging or magnetic resonance; it enables power transmission at greater distances between transmitter and receiver and increases efficiency. Coil size also affects the distance of power transfer. The bigger the coil, or the more coils there are, the greater the distance a charge can travel. 
 
+
+
+<img width="350" alt="foto2" src="https://user-images.githubusercontent.com/79105577/171506748-c2880be2-de97-4726-b97d-f5bdeea9fe6d.png">
+there is a charging pad above
+
+
+
+The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program.   
+
+
+
+
