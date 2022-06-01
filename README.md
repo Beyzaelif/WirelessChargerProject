@@ -15,9 +15,11 @@ there is a charging pad above
 
 
 
-The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. Arduino codes are written in WirelessChargerProjectArduinoCodes file in this repo. Lcd is used to display the results. The circuit is shown below.
+The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. Arduino codes are written in WirelessChargerProjectArduinoCodes file in this repo. Lcd is used to display the results. The circuit is shown in the below link.
 
 https://github.com/Beyzaelif/WirelessChargerProject/issues/1#issue-1257204446
+
+labview 
 
 
 
