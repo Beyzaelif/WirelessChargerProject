@@ -31,6 +31,11 @@ After converting the data to distance a comparision block was used to determine 
 
 https://github.com/Beyzaelif/WirelessChargerProject/issues/4#issue-1258218731
 
+https://github.com/Beyzaelif/WirelessChargerProject/issues/3
+
+https://github.com/Beyzaelif/WirelessChargerProject/issues/3
+Beyzaelif/WirelessChargerProject/issues/3
+
 
 
 Thank you for checking my project up! 
