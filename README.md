@@ -15,7 +15,10 @@ The principle can be explained as; mainly, a magnetic loop antenna (copper coil)
 
 The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. Arduino codes are given in WirelessChargerProjectArduinoCodes file in this repo. Lcd is used to display the results. The circuit is shown at the issue below.
 
-breadboard: https://github.com/Beyzaelif/WirelessChargerProject/issues/1
+breadboard: 
+![foto4](https://user-images.githubusercontent.com/79105577/171513416-6d02c84c-c5e5-4005-9d1b-4956bc802d1c.jpeg)
+![foto3](https://user-images.githubusercontent.com/79105577/171513430-1bf3b05b-007a-482d-a41c-bb3c93556a74.jpeg)
+
 
 For labview demonstration part for the project Linx and NI Visa was downloaded to read the data from the serial port of the computer. The circuit is shown at the  below issue. 
 
