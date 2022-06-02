@@ -1,18 +1,17 @@
-## WirelessChargerProject
-#Determining whether the distance between your device and the wireless charging machine is consistent in terms of efficiency or not using arduino, labview and hrsc04 sensor.
+### WirelessChargerProject
+# Determining whether the distance between your device and the wireless charging machine is consistent in terms of efficiency or not using arduino, labview and hrsc04 sensor.
 
 
 Wireless charging has been around since the late 19th century, when electricity pioneer Nikola Tesla demonstrated magnetic resonant coupling – the ability to transmit electricity through the air by creating a magnetic field between two circuits, a transmitter and a receiver.
 
 After years of unhandiness today, there are many wireless charging technologies in use, all aimed at cutting cables to everything from smartphones and laptops to kitchen appliances and cars. 
 
-The principle can be ezplained as; mainly, a magnetic loop antenna (copper coil) is used to create an oscillating magnetic field, which can create a current in one or more receiver antennas. If the appropriate capacitance is added so that the loops resonate at the same frequency, the amount of induced current in the receivers increases. This is resonant inductive charging or magnetic resonance; it enables power transmission at greater distances between transmitter and receiver and increases efficiency. Coil size also affects the distance of power transfer. The bigger the coil, or the more coils there are, the greater the distance a charge can travel. 
+The principle can be explained as; mainly, a magnetic loop antenna (copper coil) is used to create an oscillating magnetic field, which can create a current in one or more receiver antennas. If the appropriate capacitance is added so that the loops resonate at the same frequency, the amount of induced current in the receivers increases. This is resonant inductive charging or magnetic resonance; it enables power transmission at greater distances between transmitter and receiver and increases efficiency. Coil size also affects the distance of power transfer. The bigger the coil, or the more coils there are, the greater the distance a charge can travel. 
 
 
 
 <img width="350" alt="foto2" src="https://user-images.githubusercontent.com/79105577/171506748-c2880be2-de97-4726-b97d-f5bdeea9fe6d.png">
-there is a charging pad above
-
+Charging Pad 
 
 
 The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. Arduino codes are written in WirelessChargerProjectArduinoCodes file in this repo. Lcd is used to display the results. The circuit is shown in the below link.
@@ -28,7 +27,16 @@ At this application a while loop was used. Data was taken from the serial port o
 https://github.com/Beyzaelif/WirelessChargerProject/issues/3#issue-1258113366
 
 
-After converting the data to distance in cm a comparision block was used to determine if the distance is higher than 20 cm or not. According to the result the output was differing as "the distance is more/less than 20 cm". The other output was a led which goes on when you need to get your phone closer to the charging device in order to achieve at least %50 of effiency. After the designing stage of the front panel the program has run and the results are shown in the issue below.
+After converting the data to distance in cm a comparision block was used to determine if the distance is higher than 20 cm or not. According to the result the output was differing as "the distance is (more/less) than 20 cm". The other output was a led which turns on when you need to get your phone closer to the charging device in order to achieve at least %50 of effiency. After the designing stage of the front panel the program has run and the results are shown in the issue below.
+
+
+https://github.com/Beyzaelif/WirelessChargerProject/issues/4#issue-1258218731
+
+
+
+Thank you for checking it up! 
+
+
 
 
 
