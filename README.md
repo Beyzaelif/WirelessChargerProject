@@ -1,5 +1,5 @@
-### WirelessChargerProject
-# Determining whether the distance between your device and the wireless charging machine is consistent in terms of efficiency or not using arduino, labview and hrsc04 sensor.
+# WirelessChargerProject
+## Determining whether the distance between your device and the wireless charging machine is consistent in terms of efficiency or not using arduino, labview and hrsc04 sensor.
 
 
 Wireless charging has been around since the late 19th century, when electricity pioneer Nikola Tesla demonstrated magnetic resonant coupling – the ability to transmit electricity through the air by creating a magnetic field between two circuits, a transmitter and a receiver.
@@ -11,10 +11,9 @@ The principle can be explained as; mainly, a magnetic loop antenna (copper coil)
 
 
 <img width="350" alt="foto2" src="https://user-images.githubusercontent.com/79105577/171506748-c2880be2-de97-4726-b97d-f5bdeea9fe6d.png">
-Charging Pad 
 
 
-The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. Arduino codes are written in WirelessChargerProjectArduinoCodes file in this repo. Lcd is used to display the results. The circuit is shown in the below link.
+The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. Arduino codes are given in WirelessChargerProjectArduinoCodes file in this repo. Lcd is used to display the results. The circuit is shown at the issue below.
 
 https://github.com/Beyzaelif/WirelessChargerProject/issues/1#issue-1257204446
 
