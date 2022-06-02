@@ -29,13 +29,7 @@ https://github.com/Beyzaelif/WirelessChargerProject/issues/3#issue-1258113366
 After converting the data to distance a comparision block was used to determine if the distance is higher than 20 cm or not. According to the result the output was differing as "the distance is (more/less) than 20 cm". The other output was a led which turns on when you need to get your phone closer to the charging device in order to achieve at least %50 of effiency. After the designing stage of the front panel the program has run and the results are shown in the issue below.
 
 
-https://github.com/Beyzaelif/WirelessChargerProject/issues/4#issue-1258218731
-
-https://github.com/Beyzaelif/WirelessChargerProject/issues/3
-
-https://github.com/Beyzaelif/WirelessChargerProject/issues/3
-Beyzaelif/WirelessChargerProject/issues/3
-
+https://github.com/Beyzaelif/WirelessChargerProject/issues/4
 
 
 Thank you for checking my project up! 
