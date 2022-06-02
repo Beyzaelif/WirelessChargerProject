@@ -17,8 +17,6 @@ The project was first designed on breadboard with HRsc04 ultrasonic sensor and a
 
 breadboard: https://github.com/Beyzaelif/WirelessChargerProject/issues/1
 
-!!Quick reminder, photos can be also download to READme files as: "![foto4](https://user-images.githubusercontent.com/79105577/171513416-6d02c84c-c5e5-4005-9d1b-4956bc802d1c.jpeg)" but I wanted my project to look more orginized.
-
 
 For labview demonstration part for the project Linx and NI Visa was downloaded to read the data from the serial port of the computer. The circuit is shown at the  below issue. 
 
@@ -33,6 +31,9 @@ After converting the data to distance a comparision block was used to determine 
 
 
 application: https://github.com/Beyzaelif/WirelessChargerProject/issues/4
+
+
+## !!Quick reminder, photos can be also download to READme files as: "!!Quick reminder, photos can be also download to READme files as: "![foto4](https://user-images.githubusercontent.com/79105577/171513416-6d02c84c-c5e5-4005-9d1b-4956bc802d1c.jpeg)" but I wanted my project to look more orginized." but I wanted my project to look more orginized.
 
 
 Thank you for checking my project up! 
