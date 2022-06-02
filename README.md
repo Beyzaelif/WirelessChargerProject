@@ -19,7 +19,13 @@ The project was first designed on breadboard with HRsc04 ultrasonic sensor and a
 
 https://github.com/Beyzaelif/WirelessChargerProject/issues/1#issue-1257204446
 
-For labview demonstration part for the project Linx and NI Visa was downloaded to read the data from the serial port of the computer. The circuit is shown below. 
+For labview demonstration part for the project Linx and NI Visa was downloaded to read the data from the serial port of the computer. The circuit is shown at the  below issue. 
+
+https://github.com/Beyzaelif/WirelessChargerProject/issues/2#issue-1258091961
+
+At this application a while loop was used. Data was taken from the serial port of the computer via Linx. For this the occur Arduino was identified to program first. There was a selection for the pin numbers in case the user want to change the pins. From the linx library's digital => read section pulse width was used to get the result as micro seconds. In this library there is no peripheral to read the distance data directly so the datasheet for the HRSC04 sensor was used. As you can see from the link below there is a calculation to convert the data of microsec to distance. The principle is also shown in the below issue. 
+
+
 
 
 
