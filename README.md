@@ -19,7 +19,8 @@ The project was first designed on breadboard with HRsc04 ultrasonic sensor and a
 
 https://github.com/Beyzaelif/WirelessChargerProject/issues/1#issue-1257204446
 
-labview 
+For labview demonstration part for the project Linx and NI Visa was downloaded to read the data from the serial port of the computer. The circuit is shown below. 
+
 
 
 
