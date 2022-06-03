@@ -13,7 +13,9 @@ The principle can be explained as; mainly, a magnetic loop antenna (copper coil)
 <img width="350" alt="foto2" src="https://user-images.githubusercontent.com/79105577/171506748-c2880be2-de97-4726-b97d-f5bdeea9fe6d.png">
 
 
-The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. Arduino codes are given in WirelessChargerProjectArduinoCodes file in this repo. Lcd is used to display the results. The circuit is shown at the issue below.
+The project was first designed on breadboard with HRsc04 ultrasonic sensor and arduino. Arduino code was written in arduino ıde program. 
+# Arduino codes are given in WirelessChargerProjectArduinoCodes file in this repo. 
+Lcd is used to display the results. The circuit is shown at the issue below.
 
 breadboard: https://github.com/Beyzaelif/WirelessChargerProject/issues/1
 
