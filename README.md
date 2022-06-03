@@ -39,19 +39,7 @@ Thank you for checking my project up!
 
  !!Quick reminder, photos can be also download to READme files as: ![Screenshot (20)](https://user-images.githubusercontent.com/79105577/171654504-e4bde42b-8d2d-4336-804f-2da87be645e8.png) but I wanted my project to look more orginized so I used issues.
  
-Also code can be written here as; 
 
-'''
-{
-#include <LiquidCrystal.h> // includes the LiquidCrystal Library
-LiquidCrystal lcd(1, 2, 4, 5, 6, 7); // Creates an LCD object. Parameters: (rs, enable, d4, d5, d6, d7)
-const int trigPin = 9;
-const int echoPin = 10;
-long duration;
-int distanceCm, distanceInch;
-void setup() 
-}'''
-but again I used different section in this repo.
 
 
 
