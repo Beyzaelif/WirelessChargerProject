@@ -41,7 +41,7 @@ Thank you for checking my project up!
  
  
 I have created a different file at this repo for the arduino codes but the codes are also given below. 
- `
+ ```
  
  #include <LiquidCrystal.h> // includes the LiquidCrystal Library
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7); // Creates an LCD object. Parameters: (rs, enable, d4, d5, d6, d7)
@@ -75,7 +75,7 @@ void loop() {
   delay(10);
 }
  
- `
+ ```
  
 
 
