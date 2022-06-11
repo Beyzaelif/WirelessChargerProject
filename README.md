@@ -37,7 +37,7 @@ Thank you for checking my project up!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- !!Quick reminder, photos can be also download to READme files as: ![Screenshot (20)](https://user-images.githubusercontent.com/79105577/171654504-e4bde42b-8d2d-4336-804f-2da87be645e8.png) but I wanted my project to look more orginized so I used issues.
+ !!Quick reminder, photos can be also download to READme files as: ![Screenshot (20)](https://user-images.githubusercontent.com/79105577/171654504-e4bde42b-8d2d-4336-804f-2da87be645e8.png) but I wanted my project to look more organized so I used issues.
  
  
 I have created a different file at this repo for the arduino codes but the codes are also given below. 
